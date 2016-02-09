@@ -1,4 +1,4 @@
-package mastermind;
+
 
 public class MastermindGame {
 	
